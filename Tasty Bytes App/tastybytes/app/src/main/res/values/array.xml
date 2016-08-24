@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="shipping_array">
+        <item>Pay at Store</item>
+        <item>Cash On Delivery</item>
+        <item>Debit To Door</item>
+    </string-array>
+
+</resources>
